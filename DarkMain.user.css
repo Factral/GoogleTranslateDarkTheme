@@ -19,7 +19,7 @@
     background-color: #161a1d;
 }
 .DLAnyc,.UxtXRb,.ZwgMLb,.k5v5Nb,.rm1UF, .P6w8m:not(.BDJ8fb):not(.Jj6Lae),.ita-kd-dropdown-menu, .vk-box, .vk-btn, .ita-hwt-ime, .ita-hwt-buttons, .ita-hwt-candidates, .gb_Ic,.gb_Bc {
-    background: #1b2022;
+    background: #1b2022 !important;
 }
 .NBY4Kb,.j27i7,.tvua2,.uojYg,.RstnCb,.SL5JTc {
     background: #1f2528;
@@ -303,7 +303,7 @@
     background-color: #131719;
 }
 .gb_qa a, .gb_Cc a {
-    color: #ddd;
+    color: #ddd !important;
 }
 }
 
