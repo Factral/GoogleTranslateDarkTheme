@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         Google Translate Dark
 @namespace    Factral
-@version      1.1.1
+@version      1.2
 @description  Translate Google Dark Theme
 @author       Factral
 @homepageURL  https://github.com/Factral/GoogleTranslateDarkTheme/
@@ -12,13 +12,13 @@
 
 @-moz-document url-prefix("https://translate.google.") {
     /*backgrounds*/
-    .jTj8gd.XzOhkf .a2Icud,.SMqeCb,.gb_qa .gb_Kd.gb_Sd.gb_Td,.RvYhPd.Q5Onnd, .RvYhPd.dtohSe,.RvYhPd::before,body, .frame, .ita-hwt-jfk-standard, .history-top-header .history-top-bar,.history-container .info-bar, .phrasebook-top-header, .phrasebook-container .nav-bar, .gb_fd .gb_F, .gb_3d,.RvYhPd,.MmZJl,.aCQag,.ccvoYb,.WFnNle,.I87fLc.XzOhkf,.ySES5, .myVd4c .ySES5,.yFQBKb {
+    .jTj8gd.XzOhkf .a2Icud,#gb,.SMqeCb,.gb_qa .gb_Kd.gb_Sd.gb_Td,.RvYhPd.Q5Onnd, .RvYhPd.dtohSe,.RvYhPd::before,body, .frame, .ita-hwt-jfk-standard, .history-top-header .history-top-bar,.history-container .info-bar, .phrasebook-top-header, .phrasebook-container .nav-bar, .gb_fd .gb_F, .gb_3d,.RvYhPd,.MmZJl,.aCQag,.ccvoYb,.WFnNle,.I87fLc.XzOhkf,.ySES5, .myVd4c .ySES5,.yFQBKb {
         background: #131719 !important;
     }
     .kiSRoe,.eYhTcb,.LpQB8e,.NdeSHd,.AzKM4,.B3AePc,.rJfKsc,.KskmCc,.EO28P,.KjuTac,.DNFg3e {
         background-color: #161a1d !important;
     }
-    .DLAnyc,.UxtXRb,.ZwgMLb,.k5v5Nb,.rm1UF, .P6w8m:not(.BDJ8fb):not(.Jj6Lae),.ita-kd-dropdown-menu, .vk-box, .vk-btn, .ita-hwt-ime, .ita-hwt-buttons, .ita-hwt-candidates, .gb_Ic,.gb_Bc,.dykxn.MeCBDd.j33Gae,.oJweqc.KKjvXb {
+    .DLAnyc,.gb_rb.gb_rb,.UxtXRb,.ZwgMLb,.k5v5Nb,.rm1UF, .P6w8m:not(.BDJ8fb):not(.Jj6Lae),.ita-kd-dropdown-menu, .vk-box, .vk-btn, .ita-hwt-ime, .ita-hwt-buttons, .ita-hwt-candidates, .gb_Ic,.gb_Bc,.dykxn.MeCBDd.j33Gae,.oJweqc.KKjvXb {
         background: #1b2022 !important;
     }
     .NBY4Kb,.j27i7,.tvua2,.uojYg,.RstnCb,.SL5JTc,.fMHXgc {
@@ -40,7 +40,7 @@
     .JLqJ4b.C1N51c, .JLqJ4b:hover,.Xcmxjb.FwR7Pc {
         background-color: #458af9;
     }
-    .P6w8m.BDJ8fb:not(.Jj6Lae) {
+    .P6w8m.BDJ8fb:not(.Jj6Lae),.oJweqc:hover {
         background-color: #1f2528 !important;
     }
     .gb_sa, .tVwEyf:hover:not(:disabled), .tVwEyf:focus:not(:disabled), .gt-cc-t {
@@ -123,7 +123,7 @@
     .ySES5, .myVd4c .ySES5,.vk-btn.vk-sf-a {
         border-color: dimgray !important;
     }
-    .v2OCrb {
+    .v2OCrb,.gb_rb.gb_rb {
         border: 1px solid #dadce033;
     }
     .WFnNle {
@@ -161,7 +161,7 @@
     .q7sDqe:not(:disabled) .VfPpkd-kBDsod, .q7sDqe:not(:disabled), .SSgGrd:not(:disabled), .xUPQqb, .RSggmb, .nYkDR, .ZTPlmc  {
         color: #a6a6a6;
     }
-    .ita-kd-menuitem-hover, .ita-hwt-jfk, .phrasebook-container .language-chip {
+    .ita-kd-menuitem-hover, .ita-hwt-jfk, .phrasebook-container .language-chip,.gb_rb.gb_rb {
         color: #ddd !important;
     }
     .notification-container .notification-body {
