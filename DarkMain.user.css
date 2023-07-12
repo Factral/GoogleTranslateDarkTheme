@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         Google Translate Dark
 @namespace    Factral
-@version      1.3.1
+@version      1.3.2
 @description  Translate Google Dark Theme
 @author       Factral
 @homepageURL  https://github.com/Factral/GoogleTranslateDarkTheme/
@@ -12,7 +12,7 @@
 
 @-moz-document url-prefix("https://translate.google.") {
     /*backgrounds*/
-    .jTj8gd.XzOhkf .a2Icud,#gb,.gb_qa .gb_Kd.gb_Sd.gb_Td,.RvYhPd.Q5Onnd, .RvYhPd.dtohSe,.RvYhPd::before,body, .frame, .ita-hwt-jfk-standard, .history-top-header .history-top-bar,.history-container .info-bar, .phrasebook-top-header, .phrasebook-container .nav-bar, .gb_fd .gb_F, .gb_3d,.RvYhPd,.MmZJl,.aCQag,.ccvoYb,.WFnNle,.I87fLc.XzOhkf,.ySES5, .myVd4c .ySES5,.yFQBKb {
+    .jTj8gd.XzOhkf .a2Icud,#gb,.gb_qa .gb_Kd.gb_Sd.gb_Td,.RvYhPd.Q5Onnd, .RvYhPd.dtohSe,.RvYhPd::before,body, .frame, .ita-hwt-jfk-standard, .history-top-header .history-top-bar,.history-container .info-bar, .phrasebook-top-header, .phrasebook-container .nav-bar, .gb_fd .gb_F, .gb_3d,.RvYhPd,.MmZJl,.aCQag,.ccvoYb,.WFnNle,.I87fLc.XzOhkf,.ySES5, .myVd4c .ySES5,.yFQBKb,.kXN2zb {
         background: #131719 !important;
     }
     .kiSRoe,.eYhTcb,.LpQB8e,.NdeSHd,.AzKM4,.B3AePc,.rJfKsc,.KskmCc,.EO28P,.KjuTac,.DNFg3e {
@@ -52,7 +52,7 @@
     .ita-kd-menuitem-hover {
         background: #323639 !important;
     }
-    .X4DQ0::after {
+    .X4DQ0::after, .U0xwnf::after {
         background:transparent !important;
     }
     
