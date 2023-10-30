@@ -11,6 +11,13 @@
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://translate.google.") {
+    /* More translations. Adding by Jack */
+    .s0ijVb, .ydsGXd, .qt6jm { background-color: #161a1d; }
+    .ydsGXd * { color: white; }
+    .GAyS9e { all: unset !important; }
+    .hX7wnb, .Bljmlb, .qt6jm { border-top-color: #131719 !important; }
+    .U8K5nb { background-color: #bdbdbd !important; }
+
     /*backgrounds*/
     .jTj8gd.XzOhkf .a2Icud,#gb,.gb_qa .gb_Kd.gb_Sd.gb_Td,.RvYhPd.Q5Onnd, .RvYhPd.dtohSe,.RvYhPd::before,body, .frame, .ita-hwt-jfk-standard, .history-top-header .history-top-bar,.history-container .info-bar, .phrasebook-top-header, .phrasebook-container .nav-bar, .gb_fd .gb_F, .gb_3d,.RvYhPd,.MmZJl,.aCQag,.ccvoYb,.WFnNle,.I87fLc.XzOhkf,.ySES5, .myVd4c .ySES5,.yFQBKb,.kXN2zb {
         background: #131719 !important;
