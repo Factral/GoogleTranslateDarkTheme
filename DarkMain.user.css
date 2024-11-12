@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         Google Translate Dark
 @namespace    Factral
-@version      1.3.2
+@version      1.3.3
 @description  Translate Google Dark Theme
 @author       Factral
 @homepageURL  https://github.com/Factral/GoogleTranslateDarkTheme/
@@ -25,7 +25,7 @@
     .kiSRoe,.eYhTcb,.LpQB8e,.NdeSHd,.AzKM4,.B3AePc,.rJfKsc,.KskmCc,.EO28P,.KjuTac,.DNFg3e {
         background-color: #161a1d !important;
     }
-    .Pt010b .a2Icud,.SMqeCb, .DLAnyc,.gb_rb.gb_rb,.UxtXRb,.ZwgMLb,.k5v5Nb,.rm1UF, .P6w8m:not(.BDJ8fb):not(.Jj6Lae),.ita-kd-dropdown-menu, .vk-box, .vk-btn, .ita-hwt-ime, .ita-hwt-buttons, .ita-hwt-candidates, .gb_Ic,.gb_Bc,.dykxn.MeCBDd.j33Gae,.oJweqc.KKjvXb,.QcsUad,.NWlwsb,.CLKk4c {
+    .Pt010b .a2Icud,.SMqeCb, .DLAnyc,.gb_rb.gb_rb,.UxtXRb,.ZwgMLb,.k5v5Nb,.rm1UF, .P6w8m:not(.BDJ8fb):not(.Jj6Lae),.ita-kd-dropdown-menu, .vk-box, .vk-btn, .ita-hwt-ime, .ita-hwt-buttons, .ita-hwt-candidates, .gb_Ic,.dykxn.MeCBDd.j33Gae,.oJweqc.KKjvXb,.QcsUad,.NWlwsb,.CLKk4c {
         background: #1b2022 !important;
     }
     .NBY4Kb,.j27i7,.tvua2,.uojYg,.RstnCb,.SL5JTc,.fMHXgc {
@@ -170,7 +170,7 @@
     .ita-kd-menuitem-hover, .ita-hwt-jfk, .phrasebook-container .language-chip,.gb_rb.gb_rb {
         color: #ddd !important;
     }
-    .notification-container .notification-body {
+    .notification-container .notification-body, .GR2kEe {
         color: #ffffff87;
     }
     .sl-sugg .goog-inline-block.jfk-button-checked, .tl-sugg .goog-inline-block.jfk-button-checked {
