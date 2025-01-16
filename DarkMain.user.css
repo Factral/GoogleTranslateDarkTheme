@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         Google Translate Dark
 @namespace    Factral
-@version      1.3.3
+@version      1.3.4
 @description  Translate Google Dark Theme
 @author       Factral
 @homepageURL  https://github.com/Factral/GoogleTranslateDarkTheme/
@@ -19,13 +19,13 @@
     .U8K5nb { background-color: #bdbdbd !important; }
 
     /*backgrounds*/
-    .jTj8gd.XzOhkf .a2Icud,#gb,.gb_qa .gb_Kd.gb_Sd.gb_Td,.RvYhPd.Q5Onnd, .RvYhPd.dtohSe,.RvYhPd::before,body, .frame, .ita-hwt-jfk-standard, .history-top-header .history-top-bar,.history-container .info-bar, .phrasebook-top-header, .phrasebook-container .nav-bar, .gb_fd .gb_F, .gb_3d,.RvYhPd,.MmZJl,.aCQag,.ccvoYb,.WFnNle,.I87fLc.XzOhkf,.ySES5, .myVd4c .ySES5,.yFQBKb,.kXN2zb {
+    .jTj8gd.XzOhkf .a2Icud,#gb,.gb_qa .gb_Kd.gb_Sd.gb_Td,.RvYhPd.Q5Onnd, .RvYhPd.dtohSe,.RvYhPd::before,body, .frame, .ita-hwt-jfk-standard, .history-top-header .history-top-bar,.history-container .info-bar, .phrasebook-top-header, .phrasebook-container .nav-bar, .gb_fd .gb_F, .gb_3d,.RvYhPd,.MmZJl,.aCQag,.ccvoYb,.WFnNle,.I87fLc.XzOhkf,.ySES5, .myVd4c .ySES5,.yFQBKb,.kXN2zb, .zklE3, .BXabBd, .c5bTNd{
         background: #131719 !important;
     }
     .kiSRoe,.eYhTcb,.LpQB8e,.NdeSHd,.AzKM4,.B3AePc,.rJfKsc,.KskmCc,.EO28P,.KjuTac,.DNFg3e {
         background-color: #161a1d !important;
     }
-    .Pt010b .a2Icud,.SMqeCb, .DLAnyc,.gb_rb.gb_rb,.UxtXRb,.ZwgMLb,.k5v5Nb,.rm1UF, .P6w8m:not(.BDJ8fb):not(.Jj6Lae),.ita-kd-dropdown-menu, .vk-box, .vk-btn, .ita-hwt-ime, .ita-hwt-buttons, .ita-hwt-candidates, .gb_Ic,.dykxn.MeCBDd.j33Gae,.oJweqc.KKjvXb,.QcsUad,.NWlwsb,.CLKk4c {
+    .Pt010b .a2Icud,.SMqeCb, .DLAnyc,.gb_rb.gb_rb,.UxtXRb,.ZwgMLb,.k5v5Nb,.rm1UF, .P6w8m:not(.BDJ8fb):not(.Jj6Lae),.ita-kd-dropdown-menu, .vk-box, .vk-btn, .ita-hwt-ime, .ita-hwt-buttons, .ita-hwt-candidates, .gb_Ic,.dykxn.MeCBDd.j33Gae,.oJweqc.KKjvXb,.QcsUad,.NWlwsb,.CLKk4c, .dOQF4b {
         background: #1b2022 !important;
     }
     .NBY4Kb,.j27i7,.tvua2,.uojYg,.RstnCb,.SL5JTc,.fMHXgc {
@@ -87,7 +87,7 @@
     
     
     /*bordes*/
-    .jTj8gd.XzOhkf,.I87fLc.XzOhkf,.ordo2:focus{
+    .jTj8gd.XzOhkf,.I87fLc.XzOhkf,.ordo2:focus, .FJCnk{
         border: 1px solid dimgray;
     }
     .LpQB8e{
@@ -143,7 +143,7 @@
     
     
     /*colores de texto*/
-    .VfPpkd-fmcmS-yrriRe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-TvZj5c-OWXEXe-M1Soyc, .VfPpkd-fmcmS-yrriRe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-TvZj5c-OWXEXe-UbuQg {
+    .VfPpkd-fmcmS-yrriRe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-TvZj5c-OWXEXe-M1Soyc, .VfPpkd-fmcmS-yrriRe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-TvZj5c-OWXEXe-UbuQg, .VFkSHe {
         color: #ffffff8a;
     }
     .uqiNJb,.AP34ab,.pt8wXd,.zRANPd:not(:disabled),.q6oraf .VfPpkd-rymPhb,.vxsGZ,.HswdMd,.mTQVx,.ZQWYD,.aWlm2e,.irVajb,.cfWmIb:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-wGMbrd,.aia4Ud,.ita-kd-menuitem, .vk-btn,.ita-hwt-candidate,.XMNbjd,.VK4HE:hover .dPxysd, .VK4HE:focus .dPxysd, .qTO0c:hover .dPxysd, .qTO0c:focus .dPxysd,.ordo2,.KskmCc, .AarNVd, .MXuJQd,.er8xn, .KmsAmb .tL9Q4c, .J0lOec,.uNr6ee,.fEU59c,.v2OCrb,.WFnNle,.qSb8Pe,.NqnNQd,.lRu31,.lrSgmd{
@@ -161,13 +161,13 @@
     .yUUmWd.VfPpkd-AznF2e-OWXEXe-auswjd .VfPpkd-jY41G-V67aGc {
         color: #1a73e8;
     }
-    .TcXXXb, .yUUmWd .VfPpkd-jY41G-V67aGc,.JVGQzb,.VhOj3e, .nL5otb,.jCVEDd,.W5CUef {
+    .TcXXXb, .yUUmWd .VfPpkd-jY41G-V67aGc,.JVGQzb,.VhOj3e, .nL5otb,.jCVEDd,.W5CUef,.LYeNu {
         color: #acacac !important;
     }
     .q7sDqe:not(:disabled) .VfPpkd-kBDsod, .q7sDqe:not(:disabled), .SSgGrd:not(:disabled), .xUPQqb, .RSggmb, .nYkDR, .ZTPlmc  {
         color: #a6a6a6;
     }
-    .ita-kd-menuitem-hover, .ita-hwt-jfk, .phrasebook-container .language-chip,.gb_rb.gb_rb {
+    .ita-kd-menuitem-hover, .ita-hwt-jfk, .phrasebook-container .language-chip,.gb_rb.gb_rb  {
         color: #ddd !important;
     }
     .notification-container .notification-body, .GR2kEe {
